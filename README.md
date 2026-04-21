@@ -1,2 +1,7 @@
 # PA 2026-01
-Listados de Programación Avanzada resueltos
+Soluciones de:
+- Listados
+- Tickets de Salida
+- Tareas
+- Ejercicios de Clase
+- Ejercicios de Laboratorio
