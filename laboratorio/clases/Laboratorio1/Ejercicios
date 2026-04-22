@@ -1,0 +1,12 @@
+# Ejercicio 1
+cd ../../
+
+# Ejericicio 2
+touch ejercicio2.py 
+nano ejercicio2.py # Modificar programa de python
+python3 ejercicio2.py
+
+# Ejercicio 3
+touch ejercicio3.py
+nano ejercicio3.py # Modificar programa de python
+python3 ejercicio3.py < input > output
